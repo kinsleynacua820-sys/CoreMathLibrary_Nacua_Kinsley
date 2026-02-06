@@ -17,7 +17,7 @@ Arithmetic Classes:
 * Multiplication: Computes the product of two numbers.
 * Division: Computes the quotient and handles division-by-zero cases.
 
-:ShapeParent (Parent Class):
+ShapeParent (Parent Class):
 * Defines behavior common to all geometric shapes.
 * Declares methods for calculating area and perimeter.
 
